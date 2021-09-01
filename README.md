@@ -1,16 +1,18 @@
-### Hi there 👋
+### MY IDs
+Aka `Cyru1s` (more on security fields) / `CyrusF` (other fields when name Cyrus is occupied).
 
-<!--
-**CyrusF/CyrusF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+* A deprecated webshell detection framework [CloudWalker](https://github.com/chaitin/cloudwalker). Open source and including some magic 🪄
+* A container runtime behavior analyzing tools. Using eBPF and some graph computing, which is my graduation project 🎉
+* Some real-time conputing system. More lighter than Flink something, and customizable 💡
 
-Here are some ideas to get you started:
+### Working on
+* A streaming computing framework WITHOUT JAVA, such as Golang
+* Make a cup of nice coffee ☕ or drink 🍹
+* Photography 📸
+* Maybe a coser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More info
+* Blog: [https://blog.cyru1s.com](https://blog.cyru1s.com) (Mainly simplified Chinese. English version TBD.)
+* Email: `1024cyrus (at) gmail.com`
+* Contact with me to getting my TG / Twitter ID
