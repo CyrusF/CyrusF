@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CyrusF&show_icons=true&count_private=true&theme=buefy&hide_title=true">
+
 ### MY IDs
 Aka `Cyru1s` (more on security fields) / `CyrusF` (other fields when name Cyrus is occupied).
 
