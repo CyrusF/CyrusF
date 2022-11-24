@@ -6,7 +6,7 @@ Aka `Cyru1s` (more on security fields) / `CyrusF` (other fields when name Cyrus 
 ### Projects
 * A deprecated webshell detection framework [CloudWalker](https://github.com/chaitin/cloudwalker). Open source and including some magic 🪄
 * A container runtime behavior analyzing tools. Using eBPF and some graph computing, which is my graduation project 🎉
-* Some real-time conputing system. More lighter than Flink something, and customizable 💡
+* Some real-time computing system. More lighter than Flink something, and customizable 💡
 
 ### Working on
 * A streaming computing framework WITHOUT JAVA, such as Golang
